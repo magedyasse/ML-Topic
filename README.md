@@ -73,25 +73,3 @@ The choice between instance-based and model-based learning depends on the proble
 - **Model-Based Learning**: Suitable for large datasets, complex problems, or when faster predictions are required.
 
 By understanding their differences, machine learning practitioners can select the approach that best fits their specific needs.
-[1] https://www.dremio.com/wiki/instance-based-learning/
-[2] https://www.linkedin.com/pulse/instance-based-vs-model-based-learning-dr-muhammad-waseem
-[3] http://amgadmadkour.com/notes/ml/type/instance-based-learning
-[4] https://www.howso.com/instance-based-learning/
-[5] https://kshitijshresth.hashnode.dev/instance-based-and-model-based-how-they-differ-in-machine-learning
-[6] https://hackernoon.com/the-notions-behind-model-based-and-instance-based-learning-in-ai-and-ml
-[7] https://www.kaggle.com/code/yassermessahli/instance-based-vs-model-based-learning
-[8] https://medium.com/@pp1222001/model-based-vs-instance-based-learning-understanding-the-differences-with-examples-1545c9c3a056
-[9] https://www.appliedaicourse.com/blog/instance-based-learning/
-[10] https://www.geeksforgeeks.org/machine-learning/instance-based-learning/
-[11] https://neptune.ai/blog/model-based-and-model-free-reinforcement-learning-pytennis-case-study
-[12] https://www.deepchecks.com/glossary/model-based-machine-learning/
-[13] https://www.reddit.com/r/reinforcementlearning/comments/xqbtmr/can_anyone_please_explain_modelfree_and/
-[14] https://en.wikipedia.org/wiki/Instance-based_learning
-[15] https://compneuro.neuromatch.io/tutorials/W3D4_ReinforcementLearning/student/W3D4_Tutorial4.html
-[16] https://www.quora.com/What-are-the-differences-between-instance-based-and-model-based-learning-in-machine-learning
-[17] https://www.slideshare.net/slideshow/instance-based-learning-in-machine-learning/269943121
-[18] https://www.geeksforgeeks.org/artificial-intelligence/model-based-reinforcement-learning-mbrl-in-ai/
-[19] http://bair.berkeley.edu/blog/2019/12/12/mbpo/
-[20] https://ai.stackexchange.com/questions/4456/whats-the-difference-between-model-free-and-model-based-reinforcement-learning
-[21] https://pmc.ncbi.nlm.nih.gov/articles/PMC4074442/
-[22] https://www.sciencedirect.com/science/article/pii/S0960982220309039
